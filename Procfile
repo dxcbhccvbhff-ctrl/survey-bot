@@ -1,1 +1,1 @@
-worker: python survey_bot.py
+worker: python "survey bot.py"
